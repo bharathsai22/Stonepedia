@@ -80,100 +80,60 @@ function App() {
                 </div>
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="shadow menu-item-card p-3 mb-3">
-                        <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/em-ginger-fried-img.png" class="menu-item-image w-100" />
-                        <h1 class="menu-card-title">Non-Veg Starters</h1>
-                        <a href="" class="menu-item-link">
-                            View All
-                            <svg width="16px" height="16px" viewBox="0 0 16 16" class="bi bi-arrow-right-short" fill="#d0b200" xmlns="http://www.w3.org/2000/svg">
-                                <path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z" />
-                            </svg>
-                        </a>
+                        <img src="https://res.cloudinary.com/dxevbz0nd/image/upload/v1734086226/quartz_kds6re.jpg" class="menu-item-image w-30" />
+                        <h1 class="menu-card-title">Quartz</h1>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="shadow menu-item-card p-3 mb-3">
-                        <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/em-veg-starters-img.png" class="menu-item-image w-100" />
-                        <h1 class="menu-card-title">Veg Starters</h1>
-                        <a href="" class="menu-item-link">
-                            View All
-                            <svg width="16px" height="16px" viewBox="0 0 16 16" class="bi bi-arrow-right" fill="#d0b200" xmlns="http://www.w3.org/2000/svg">
-                                <path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z" />
-                            </svg>
-                        </a>
+                        <img src="https://res.cloudinary.com/dxevbz0nd/image/upload/v1734086503/sandstone_yxduur.webp" class="menu-item-image w-100" />
+                        <h1 class="menu-card-title">Sand Stone</h1>
+                        
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="menu-item-card shadow p-3 mb-3">
-                        <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/em-soup-img.png" class="menu-item-image w-100" />
-                        <h1 class="menu-card-title">Soups</h1>
-                        <a href="" class="menu-item-link">
-                            View All
-                            <svg width="16px" height="16px" viewBox="0 0 16 16" class="bi bi-arrow-right" fill="#d0b200" xmlns="http://www.w3.org/2000/svg">
-                                <path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z" />
-                            </svg>
-                        </a>
+                        <img src="https://res.cloudinary.com/dxevbz0nd/image/upload/v1734086621/limestone-lump_rp7yo7.webp" class="menu-item-image w-100" />
+                        <h1 class="menu-card-title">Limestone</h1>
+                        
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="menu-item-card shadow p-3 mb-3">
-                        <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/em-grilled-seafood-img.png" class="menu-item-image w-100" />
-                        <h1 class="menu-card-title">Fish & Sea food</h1>
-                        <a href="" class="menu-item-link">
-                            View All
-                            <svg width="16px" height="16px" viewBox="0 0 16 16" class="bi bi-arrow-right" fill="#d0b200" xmlns="http://www.w3.org/2000/svg">
-                                <path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z" />
-                            </svg>
-                        </a>
+                        <img src="https://res.cloudinary.com/dxevbz0nd/image/upload/v1734086706/indian-marble-250x250_ukozri.webp" class="menu-item-image w-100" />
+                        <h1 class="menu-card-title">Indian Marble</h1>
+                    
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="menu-item-card shadow p-3 mb-3">
-                        <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/em-hyderabadi-biryani-img.png" class="menu-item-image w-100" />
-                        <h1 class="menu-card-title">Main Course</h1>
-                        <a href="" class="menu-item-link">
-                            View All
-                            <svg width="16px" height="16px" viewBox="0 0 16 16" class="bi bi-arrow-right" fill="#d0b200" xmlns="http://www.w3.org/2000/svg">
-                                <path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z" />
-                            </svg>
-                        </a>
+                        <img src="https://res.cloudinary.com/dxevbz0nd/image/upload/v1734086868/pure-white-indian-granite-1660912365765_xsdkba.jpg" class="menu-item-image w-100" />
+                        <h1 class="menu-card-title">Indian Granite</h1>
+                      
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="menu-item-card shadow p-3 mb-3">
-                        <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/em-mushroom-noodles-img.png" class="menu-item-image w-100" />
-                        <h1 class="menu-card-title">Noodles</h1>
-                        <a href="" class="menu-item-link">
-                            View All
-                            <svg width="16px" height="16px" viewBox="0 0 16 16" class="bi bi-arrow-right" fill="#d0b200" xmlns="http://www.w3.org/2000/svg">
-                                <path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z" />
-                            </svg>
-                        </a>
+                        <img src="https://res.cloudinary.com/dxevbz0nd/image/upload/v1734087569/images_rqpmio.jpg" class="menu-item-image w-100" />
+                        <h1 class="menu-card-title">Onyx</h1>
+                  
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="menu-item-card shadow p-3 mb-3">
-                        <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/em-gluten-img.png" class="menu-item-image w-100" />
-                        <h1 class="menu-card-title">Salads</h1>
-                        <a href="" class="menu-item-link">
-                            View All
-                            <svg width="16px" height="16px" viewBox="0 0 16 16" class="bi bi-arrow-right" fill="#d0b200" xmlns="http://www.w3.org/2000/svg">
-                                <path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z" />
-                            </svg>
-                        </a>
+                        <img src="https://res.cloudinary.com/dxevbz0nd/image/upload/v1734087658/Travertine-47-polished-plaster-1120x1080_bkoows.jpg" class="menu-item-image w-100" />
+                        <h1 class="menu-card-title">Travertine</h1>
+                        
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="menu-item-card shadow p-3 mb-3">
-                        <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/em-coffee-bourbon-img.png" class="menu-item-image w-100" />
-                        <h1 class="menu-card-title">Desserts</h1>
-                        <a href="" class="menu-item-link">
-                            View All
-                            <svg width="16px" height="16px" viewBox="0 0 16 16" class="bi bi-arrow-right" fill="#d0b200" xmlns="http://www.w3.org/2000/svg">
-                                <path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z" />
-                            </svg>
-                        </a>
+                        <img src="https://res.cloudinary.com/dxevbz0nd/image/upload/v1734087754/spider-green2_z9xgiw.jpg" class="menu-item-image w-100" />
+                        <h1 class="menu-card-title">Imported Granite</h1>
+                        
                     </div>
                 </div>
+                
             </div>
         </div>
     </div>
