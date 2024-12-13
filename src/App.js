@@ -133,7 +133,30 @@ function App() {
                         
                     </div>
                 </div>
-                
+                <div class="col-12">
+                    <p>Quality You Can Trust</p>
+                    <h1 class="menu-section-heading">Our Premium Stones</h1>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="shadow menu-item-card p-3 mb-3">
+                        <img src="https://res.cloudinary.com/dxevbz0nd/image/upload/v1734088349/dholpur-red-sandstone_hai91e.jpg" class="menu-item-image w-30" />
+                        <h1 class="menu-card-title">Dholpur Red Stone</h1>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="shadow menu-item-card p-3 mb-3">
+                        <img src="https://res.cloudinary.com/dxevbz0nd/image/upload/v1734088431/classic_black_galaxy_granite_polished_slab_hhaekd.jpg" class="menu-item-image w-100" />
+                        <h1 class="menu-card-title">Black Galaxy Granite</h1>
+                        
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="menu-item-card shadow p-3 mb-3">
+                        <img src="https://res.cloudinary.com/dxevbz0nd/image/upload/v1734088526/granite-stone_bgcdax.jpg" class="menu-item-image w-100" />
+                        <h1 class="menu-card-title">Blue Pearl</h1>
+                        
+                    </div>
+                </div>
             </div>
         </div>
     </div>
